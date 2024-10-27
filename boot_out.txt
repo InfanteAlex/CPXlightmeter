@@ -1,0 +1,3 @@
+Adafruit CircuitPython 9.1.3 on 2024-08-29; Adafruit CircuitPlayground Express with samd21g18
+Board ID:circuitplayground_express
+UID:8777A13E4752305020312E520A0E11FF
